@@ -1,0 +1,3 @@
+- [x] Replace screenshot-based hero with real text, buttons and a separate product image.
+- [x] Make navigation and category selection work on desktop and mobile.
+- [x] Add a polished category section immediately after the hero and verify both layouts.
